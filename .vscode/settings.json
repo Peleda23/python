@@ -2,15 +2,7 @@
   "cSpell.ignoreWords": [
     "visi"
   ],
-  "cSpell.words": [
-    "ivesti",
-    "juos",
-    "kaip",
-    "konvertuoti",
-    "reikia",
-    "skaiciai",
-    "skaiciu",
-    "tada",
-    "tkrinam"
-  ]
+  "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.8/bin/python3",
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true
 }
